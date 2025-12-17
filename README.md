@@ -3,7 +3,7 @@
 I'm an applied math graduate with interests in
 data analysis, programming, and problem-solving.
 
-⚡ Fun fact: I like goats and donkeys
+⚡ Fun fact: I like goats
 
 🌱 I’m currently learning C++
 
