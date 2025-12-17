@@ -12,7 +12,7 @@ data analysis, programming, and problem-solving.
 - Jupyter Notebooks
 - SQL
 
-### 📂 Featured Projects
+### Featured Projects
 - Pacman: Search Path
 - The Trapped Knight
 - California Wildfire Prediction
