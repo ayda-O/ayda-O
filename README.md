@@ -1,9 +1,10 @@
 ## Hello! 👋 I'm Ayda, here's a few things about me..
 
-I'm an Applied Mathematics graduate with interests in
+I'm an applied math graduate with interests in
 data analysis, programming, and problem-solving.
 
 ⚡ Fun fact: I like goats and donkeys
+
 🌱 I’m currently learning C++
 
 ### Skills
