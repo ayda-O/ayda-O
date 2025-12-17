@@ -4,11 +4,13 @@ I'm an Applied Mathematics graduate with interests in
 data analysis, programming, and problem-solving.
 
 ⚡ Fun fact: I like goats and donkeys
+🌱 I’m currently learning C++
 
 ### Skills
 - Python (NumPy, Pandas, Matplotlib)
 - Julia
 - Jupyter Notebooks
+- SQL
 
 ### 📂 Featured Projects
 - Pacman: Search Path
